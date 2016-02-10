@@ -1,16 +1,16 @@
 html {
   background-color: #d0bbbd;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
 }
 
 body {
   background-color: #ccc;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
 }
 
 h1 {
   font-size: 1.5rem;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 article {
@@ -19,7 +19,7 @@ article {
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 figcaption {
@@ -34,12 +34,11 @@ p:nth-child(5) {
   font-size: 1rem;
   font-style: italic;
   line-height: inherit;
-  /*text-align: center;*/
 }
 
 blockquote {
   text-align: center;
-  font-style:italic;
+  font-style: italic;
   font-size: 2rem;
 }
 
@@ -61,12 +60,13 @@ nav {
 figure {
   font-style: italic;
   font-size: 1rem;
-  text-align: center;;
+  text-align: center;
 }
 
 a {
   text-decoration: none;
 }
+
 a:link {
   color: #b42885;
 }
@@ -80,7 +80,7 @@ ol {
   list-style-type: lower-greek;
 }
 
-dl dt{
+dl dt {
   font-weight: bold;
 }
 
